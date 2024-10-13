@@ -1,4 +1,4 @@
-Problem Statement
+Problem Statement:
 Unemployment, a critical economic indicator, is typically quantified using the unemployment rate, which represents the proportion of individuals without employment within the total labor force. The COVID-19 pandemic has significantly impacted the global labor market, resulting in a substantial surge in the unemployment rate. Analyzing and comprehending the dynamics of this economic metric through data science can offer valuable insights and potential solutions.
 
 Objective:
@@ -30,7 +30,7 @@ The project is of significant importance due to the pressing need to address une
 
 Unemployment Analysis with Python is an informative and actionable exploration of an economic challenge with far-reaching implications, making it a valuable contribution to data-driven decision-making.
 
-Conclusion
+Conclusion:
 In this data science project, we embarked on a comprehensive analysis of the unemployment rate, a critical economic indicator, with a particular focus on the unprecedented challenges brought about by the Covid-19 pandemic. Our exploratory data analysis yielded valuable insights that shed light on the dynamics of unemployment in India.
 
 We observed a significant surge in the Estimated Unemployment Rate during the Covid-19 lockdown, underscoring the profound impact of the pandemic on the labor market.
